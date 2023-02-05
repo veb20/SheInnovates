@@ -1,5 +1,14 @@
 # SheInnovates
 
+OCTDOT 
+
+**Team Members**
+
+Morgan Wessner
+Maia Harmon
+Veronica Bella
+Samika Sanghvi
+
 
 We decided to create an app that assists people who have been diagnosed with OCD in their everyday life. As OCD is commonly an overlooked issue, there aren’t many services that provide 24/7 support at a low price.
 
