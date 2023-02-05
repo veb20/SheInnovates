@@ -11,7 +11,7 @@ Morgan Wessner, Maia Harmon, Veronica Bella, Samika Sanghvi
 **Sources Used:**
 
 FigmaApp-
-https://www.figma.com/proto/aKvmpZ9XmkL2yKDATpkRvz/Untitled?node-id=95%3A60&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=95%3A60
+https://www.figma.com/proto/aKvmpZ9XmkL2yKDATpkRvz/Untitled?node-id=66%3A101&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=95%3A60
 
 **Comments:** 
 
